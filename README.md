@@ -71,3 +71,12 @@ It is structured to showcase skills highly relevant for **Health Economist and D
 1. Clone this repository:  
    ```bash
    git clone https://github.com/snehez/PharmaQuant-Health-Economics-Analysis.git
+
+---
+
+## 👩‍💻 Author
+**Sneha**  
+- Aspiring Data Analyst | Business Insights | Risk Analytics  
+- 🌐 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/snehez)  
+
+---
